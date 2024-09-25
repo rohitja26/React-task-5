@@ -1,0 +1,101 @@
+[
+     {
+          "Customer": "Brannon Weinman",
+          "Last seen": "08/08/2020",
+          "Orders": 2,
+          "Total spent": "2631.31",
+          "Latest purchase": "27/11/2019 13:12:25",
+          "News": "✔",
+          "Segments": "Regular"
+     },
+     {
+          "Customer": "Anna Bruen",
+          "Last seen": "08/08/2020",
+          "Orders": 3,
+          "Total spent": "647.91",
+          "Latest purchase": "07/06/2020 07:48:18",
+          "News": "✖",
+          "Segments": "Regular"
+     },
+     {
+          "Customer": "Gudrun Trump",
+          "Last seen": "08/08/2020",
+          "Orders": 0,
+          "Total spent": "0.00",
+          "Latest purchase": "",
+          "News": "✖",
+          "Segments": "Regular"
+     },
+     {
+          "Customer": "Florencio Roob",
+          "Last seen": "08/08/2020",
+          "Orders": 3,
+          "Total spent": "0.00",
+          "Latest purchase": "",
+          "News": "✖",
+          "Segments": "Regular"
+     },
+     {
+          "Customer": "Madison Thimann",
+          "Last seen": "08/08/2020",
+          "Orders": 1,
+          "Total spent": "693.50",
+          "Latest purchase": "19/05/2020 10:03:18",
+          "News": "✔",
+          "Segments": "Regular"
+     },
+     {
+          "Customer": "Beth Hill",
+          "Last seen": "08/08/2020",
+          "Orders": 0,
+          "Total spent": "0.00",
+          "Latest purchase": "",
+          "News": "✖",
+          "Segments": "Regular"
+     },
+     {
+          "Customer": "Brandyn Hooger",
+          "Last seen": "08/08/2020",
+          "Orders": 0,
+          "Total spent": "0.00",
+          "Latest purchase": "",
+          "News": "✖",
+          "Segments": "Regular"
+     },
+     {
+          "Customer": "Rey Schuster",
+          "Last seen": "08/08/2020",
+          "Orders": 0,
+          "Total spent": "0.00",
+          "Latest purchase": "",
+          "News": "✖",
+          "Segments": "Regular"
+     },
+     {
+          "Customer": "Jakob Amundrød",
+          "Last seen": "08/08/2020",
+          "Orders": 0,
+          "Total spent": "0.00",
+          "Latest purchase": "",
+          "News": "✖",
+          "Segments": "Regular"
+     },
+     {
+          "Customer": "Janae Overton",
+          "Last seen": "08/08/2020",
+          "Orders": 0,
+          "Total spent": "0.00",
+          "Latest purchase": "",
+          "News": "✖",
+          "Segments": "Regular"
+     },
+     {
+          "Customer": "Dina Tillman",
+          "Last seen": "08/08/2020",
+          "Orders": 0,
+          "Total spent": "0.00",
+          "Latest purchase": "",
+          "News": "✖",
+          "Segments": "Regular"
+     }
+]
